@@ -1,4 +1,9 @@
 .container {
     padding: 20px 25px;
+
     <p>The w3-container class is an important w3.CSS class.</p>
+
+     display: flex;
+    flex-direction: row;
+
 }
